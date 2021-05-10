@@ -33,7 +33,6 @@ const styles = StyleSheet.create({
   app: {
     flex: 1,
     backgroundColor: "#eff1f8",
-    //justifyContent: 'center',
     alignItems: 'center'
   },
   text : {
@@ -44,15 +43,10 @@ const styles = StyleSheet.create({
   logo: { 
     height:80, 
     width:80, 
-    //justifyContent: 'center', 
-    //alignItems: 'center',
-    //position: 'absolute'
   },
 
   header: {
     padding: 20,
-    //justifyContent: 'center',
-    //alignItems: 'center'
   },
   title: {
     fontWeight: "bold",
